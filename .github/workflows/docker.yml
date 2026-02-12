@@ -33,4 +33,4 @@ jobs:
           push: true
           tags: |
             sjuan05docker/animal-farm-nodejs:latest
-            #ghcr.io/jamtur01/animal-farm-nodejs:latest
+            #ghcr.io/jamtur01/animal-farm-nodejs:latest2
